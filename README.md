@@ -21,7 +21,7 @@ Olá, me chamo **Marcelo Assis**, sou **Técnico em eletrônica** ⚡ e um **est
 - 💼 Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em responder;
 - 📫 Envie um e-mail para marcelo.apdassis@gmail.com para entrar em contato comigo..
-- 📝 Veja meu [Currículo](https://drive.google.com/file/d/1tywsKwj9doRJGtrwmBPrFWjR5GJf5TJ7/view?usp=sharing) para obter mais informações.
+- 📝 Veja meu [Currículo](https://drive.google.com/file/d/123LjGIPKe98MbUcKgew-1NQqAKujnC4G/view?usp=sharing) para obter mais informações.
 
 **Linguagens e Ferramentas:**  
 
@@ -35,4 +35,4 @@ Olá, me chamo **Marcelo Assis**, sou **Técnico em eletrônica** ⚡ e um **est
 
 ![Marceloapd github stats](https://github-readme-stats.vercel.app/api?username=marceloapd&show_icons=true&hide_border=true)
 
-⭐️ [Marceloapd](https://drive.google.com/file/d/123LjGIPKe98MbUcKgew-1NQqAKujnC4G/view?usp=sharing)
+⭐️ [Marceloapd](https://github.com/marceloapd)
