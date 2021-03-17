@@ -1,4 +1,4 @@
-### Hey 👋, sou Marcelo Assis
+### Ola 👋, sou Marcelo Assis
 
 <a href="https://www.linkedin.com/in/marceloapd/">
   <img align="left" alt="Marcelo LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
