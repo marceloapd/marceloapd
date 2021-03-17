@@ -17,7 +17,7 @@ Olá, me chamo **Marcelo Assis**, sou **Técnico em eletrônica** ⚡ e um **est
 
 **Falando sobre Coisas Pessoais:**
 - 👨🏽‍💻 Atualmente busco uma vaga ou estagio de Desenvolvedor Junior Fullstack;
-- 📈 Atualmente estou focado em me aperfeiçoar em linguagens back-end;
+- 📈 Venho buscando me aperfeiçoar em linguagens back-end;
 - 💼 Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em responder;
 - 📫 Envie um e-mail para marcelo.apdassis@gmail.com para entrar em contato comigo..
