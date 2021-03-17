@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/{marceloapd}/{project}.svg)](http://hits.dwyl.com/{marceloapd}/{project})
+[![HitCount](http://hits.dwyl.com/marceloapd/https://githubcom/marceloapd/marceloapd.svg)](http://hits.dwyl.com/marceloapd/https://githubcom/marceloapd/marceloapd)
 
 <!--
 **marceloapd/marceloapd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
