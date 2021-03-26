@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor** 👨‍💻 formado em **eletrônica** ⚡ cursando **Análise e Desenvolvimento de Sistemas**
+Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico em Eletrônica** ⚡ cursando **Análise e Desenvolvimento de Sistemas**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
