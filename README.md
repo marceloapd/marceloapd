@@ -36,5 +36,3 @@ Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico 
 ![Marceloapd github stats](https://github-readme-stats.vercel.app/api?username=marceloapd&show_icons=true&hide_border=true)
 
 ⭐️ [Marceloapd](https://github.com/marceloapd)
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
