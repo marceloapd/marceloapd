@@ -11,14 +11,14 @@
 <br />
 <br />
 
-Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico em Eletrônica** ⚡ cursando **Análise e Desenvolvimento de Sistemas**
+Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico em Eletrônica** ⚡
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Falando sobre Coisas Pessoais:**
 - 👨‍💻 Buscando novos desafios;
 - 📈 Venho buscando me aperfeiçoar em linguagens back-end;
-- 💼 Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas;
+- 💼 Formado em **Análise e Desenvolvimento de Sistemas**;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em responder;
 - 📫 Envie um e-mail para marcelo.apdassis@gmail.com para entrar em contato comigo..
 - 📝 Veja meu [Currículo](https://drive.google.com/file/d/13ByPK59ZgGgBwnbT-g8Orfri3dC_2Qa2/view?usp=sharing) para obter mais informações.
