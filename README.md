@@ -21,7 +21,7 @@ Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico 
 - 💼 Formado em **Análise e Desenvolvimento de Sistemas**;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em responder;
 - 📫 Envie um e-mail para marcelo.apdassis@gmail.com para entrar em contato comigo..
-- 📝 Veja meu [Currículo](https://drive.google.com/file/d/13ByPK59ZgGgBwnbT-g8Orfri3dC_2Qa2/view?usp=sharing) para obter mais informações.
+- 📝 Veja meu [Currículo](https://www.canva.com/design/DAEkZNsxnUI/-5uNXLSxh_j_ktt9FbYmIw/view?utm_content=DAEkZNsxnUI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) para obter mais informações.
 
 **Linguagens e Ferramentas:**  
 
