@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico em Eletrônica** ⚡
+Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor backend**👨‍💻
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -21,7 +21,7 @@ Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico 
 - 💼 Formado em **Análise e Desenvolvimento de Sistemas**;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em responder;
 - 📫 Envie um e-mail para marcelo.apdassis@gmail.com para entrar em contato comigo..
-- 📝 Veja meu [Currículo](https://www.canva.com/design/DAEkZNsxnUI/-5uNXLSxh_j_ktt9FbYmIw/view?utm_content=DAEkZNsxnUI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) para obter mais informações.
+- 📝 Veja meu [Currículo](https://link.com) para obter mais informações.
 
 **Linguagens e Ferramentas:**  
 
@@ -32,6 +32,7 @@ Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor**👨‍💻 e **Técnico 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/71731452/191397076-33b8e399-811a-4cb5-91a8-1164d2cab5c4.png"></code>
 
 ![Marceloapd github stats](https://github-readme-stats.vercel.app/api?username=marceloapd&show_icons=true&hide_border=true)
 
