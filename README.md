@@ -21,7 +21,6 @@ Olá, me chamo **Marcelo Assis**, sou **Desenvolvedor backend**👨‍💻
 - 💼 Formado em **Análise e Desenvolvimento de Sistemas**;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em responder;
 - 📫 Envie um e-mail para marcelo.apdassis@gmail.com para entrar em contato comigo..
-- 📝 Veja meu [Currículo](https://link.com) para obter mais informações.
 
 **Linguagens e Ferramentas:**  
 
